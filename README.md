@@ -39,3 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration to [Artem](https://www.uplabs.com/artsemii).
 * and everyone who helped me learn android
+
+### Note
+
+this design do not support all screen sizes yet it's better suitable for 7" inch screens please feel free to add new screen sizes.
