@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Note
 
-this design do not support all screen sizes yet it's better suitable for 7" inch screens please feel free to add new screen sizes.
+this design do not support all screen sizes yet it's better suitable for 5.5" inch screens please feel free to add new screen sizes.
