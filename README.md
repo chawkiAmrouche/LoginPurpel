@@ -5,6 +5,8 @@ Android implementation of Sign in Sign Up layout concept
 
 ### Preview
  
+ ![alt text](https://github.com/chawkiAmrouche/LoginPurpel/blob/master/transition.gif)
+ 
 ### motivation
 
 Neat,clean and beautiful Designs needs to be alive
